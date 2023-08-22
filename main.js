@@ -2,7 +2,7 @@ const style = document.createElement("style");
 style.textContent = `
 #thumbnail, .ytd-thumbnail::before, ytd-thumbnail[size="large"]::before, 
 .video-stream, .rich-thumbnail, .video-thumbnail-container-vertical,
-.rounded-thumbnail
+.rounded-thumbnail, #ytd-player
 {
     border-radius: 0 !important; 
 }
