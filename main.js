@@ -4,8 +4,8 @@ style.textContent = `
 .video-stream, .rich-thumbnail, .video-thumbnail-container-vertical,
 .rounded-thumbnail, #ytd-player, #player-container, 
 .ytd-reel-player-overlay-renderer, .player-container.ytd-reel-video-renderer, .reel-video-in-sequence-thumbnail,
-.shortsLockupViewModelHostThumbnailContainer, .ytd-video-preview
-{
+.shortsLockupViewModelHostThumbnailContainer, .ytd-video-preview, #initial-player-container, .yt-thumbnail-view-model--medium,
+.yt-thumbnail-view-model--large, .ytwTopLandscapeImageLayoutViewModelHostImageHoverOverlayContainer {
     border-radius: 0 !important; 
 }
 #video-preview-container {
